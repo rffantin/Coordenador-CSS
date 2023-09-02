@@ -28,7 +28,10 @@ Sugestão de editor de códigos caso ainda não tenha um:
 
 Link para instalar o VSCode: https://code.visualstudio.com/download
 ## Como rodar a aplicação
-1. Use o comando: `git clone https://github.com/letdayy/Outfit-E-commerce.git` no terminal de sua preferência. Entretanto, recomenda-se o terminal do [git](https://git-scm.com).
+1. Use o comando: `git clone https://github.com/rffantin/lista-css.git` no terminal de sua preferência. Entretanto, recomenda-se o terminal do [git](https://git-scm.com).
+```bash
+git clone https://github.com/rffantin/lista-css.git
+```
 
 2. Abra o repositório copiado no seu editor de códigos.
 
@@ -38,7 +41,7 @@ npm install
 ```
 
 4. Execute o comando `npm start` para iniciar a aplicação em sua máquina.
- ```bash
+```bash
 npm start 
 ```
 
