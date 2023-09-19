@@ -48,7 +48,7 @@ npm start
 5. Comece a inserir os itens desejados na lista e siga as instruções fornecidas via prompt.
 ## Autor
 Esse projeto foi desenvolvido por mim, Rafael Fantin.
-Caso queira colaborar com o projeto, dar alguma sugestão ou tenha alguma dúvida, sinta-se a vontade para entrar comigo:
+Caso queira colaborar com o projeto, dar alguma sugestão ou tenha alguma dúvida, sinta-se a vontade para entrar em contato comigo:
 
 E-mail: rffantin@gmail.com
 
